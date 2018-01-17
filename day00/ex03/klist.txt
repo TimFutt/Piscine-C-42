@@ -1,0 +1,6 @@
+Credentials cache: API:5D574B3C-21A4-43C0-A7E7-114801C439A3
+        Principal: tifuret@42.FR
+
+  Issued                Expires               Principal
+Aug  1 21:26:26 2017  Aug  8 21:26:26 2017  krbtgt/42.FR@42.FR
+Aug  1 21:30:52 2017  Aug  8 21:26:26 2017  host/vgs-fn1.42.fr@42.FR
